@@ -1,6 +1,6 @@
 <template>
   <div>
-    <header class="flex space-x-4 items-center bg-slate-200 p-3">
+    <header class="flex space-x-4 items-center bg-gray-100/60 p-3">
       <h1 class="text-lg font-semibold">Quiz</h1>
 
       <input
